@@ -1,6 +1,6 @@
 Write down the impulse response of the echo in a room that has non-zero components as mentioned in table below: Note that the impulse response of the echo is zero everywhere else. Determine the echo generated in the room for the ‘solo.wav’ file. Make use of the sparsity of the echo impulse response to achieve computational efficiency. Do NOT use MATLAB ’conv’.
 
-Components of the echo:
+Components of the echo
 
 | Time instant | Impulse response amplitude (linear scale) |
 |--------------|--------------------------------------------|
